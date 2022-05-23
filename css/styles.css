@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 0 auto 0px;
+    font-family: 'Neonderthaw', cursive;
+    font-size: 5.6rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3,a{
+    color: #11999E;
+}
+.top-container{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+}
+.middle-container{
+    margin-top: 30px;
+}
+
+.bottom-cloud{
+    position: relative;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img{
+    width: 24%;
+    height: 150px;
+    /* border-radius: 100%; */
+    float: left;
+    margin-right: 30px;
+}
+
+.computerImg{
+    width: 25%;
+    /* border-radius: 100%; */
+    float: right;
+    margin-left: 30px;
+}
+
+hr{
+    height: 0;
+    border: 0px;
+    width: 5%;
+    border-top: 10px dotted #80c9c9;
+    margin-top: 50px;
+    border-width: 7px;
+
+}
+
+.introPara{
+    width: 40%;
+    line-height: 2;
+    margin: auto;
+}
+
+.about-me{
+    margin: 50px auto;
+}
+
+.head{
+    margin-top: 70px;
+    
+}
+
+.btn{
+    text-decoration: none;
+    background-color: #66BFBF;
+    color: white;
+    border: 1px solid #66BFBF;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.bottom-container{
+    background-color: rgba(62, 204, 204, 0.76);
+    margin-top: 50px;
+    padding: 50px;
+    height: 70px;
+
+}
+
+.bottom-container p{
+    margin-bottom: 0;
+    margin-top: 50px;
+    color: white;
+    font-size: 15px;
+}
+ 
+.footer-link{ 
+    text-decoration: none;
+    padding: 30px;
+    color: #045255;
+    font-weight: 800;
+}
+
+.footer-link:hover{
+    color: whitesmoke;
+}
+
+.btn:hover{
+    background-color: rgb(77, 158, 190);
+    border: rgb(77, 158, 190);
+}
+
+
+
